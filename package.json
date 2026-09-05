@@ -4,7 +4,7 @@
   "description": "Sham Avachar - Developer CLI Portfolio",
   "main": "index.js",
   "bin": {
-    "sham": "./index.js"
+    "sham": "index.js"
   },
   "scripts": {
     "start": "node index.js",
