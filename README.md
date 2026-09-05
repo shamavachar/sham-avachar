@@ -1,8 +1,8 @@
-# Sham CLI
+# Sham Avachar
 
 My personal developer portfolio in your terminal.
 
 ## Run
 
 ```bash
-npx sham
+npx sham-avachar
