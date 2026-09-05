@@ -269,7 +269,7 @@ ${chalk.bold.cyan("Keep building. Keep learning. Keep creating. 🚀")}
 
   console.log(
     chalk.gray(`
-             npx sham-cli • v1.0.0 • Made with ♥
+             npx sham-avachar • v1.0.0 • Made with ♥
     `)
   );
 }
