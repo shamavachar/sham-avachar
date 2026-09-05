@@ -197,7 +197,7 @@ ${chalk.bold.magenta("Email")}         -        ${chalk.white("shamavachar20@gma
 
 ${chalk.bold.magenta("LinkedIn")}      -        ${chalk.gray("https://www.linkedin.com/in/sham-avachar-151643328/")}
 
-${chalk.bold.magenta("Portfolio")}     -        ${chalk.gray("Add your Portfolio URL")}
+${chalk.bold.magenta("Portfolio")}     -        ${chalk.gray("Coming Soon")}
 
 ${chalk.bold.magenta("Discord")}       -        ${chalk.gray("sham06258")}
 
