@@ -1,6 +1,6 @@
 {
   "name": "sham-avachar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sham Avachar - Developer CLI Portfolio",
   "main": "index.js",
   "bin": {
